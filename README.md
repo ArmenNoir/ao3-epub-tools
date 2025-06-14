@@ -80,4 +80,4 @@ Calibre or other .epub readers can help preview results.
 Ensure encoding is UTF-8 when using external text files.
 
 ## 📌 License
-This project is for personal, educational, or archiving use only. Respect AO3’s Terms of Service and do not use this to redistribute works without permission.
+This project is for personal, educational use only. Respect AO3’s Terms of Service and do not use this to redistribute works without permission.
