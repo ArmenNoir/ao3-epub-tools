@@ -39,6 +39,9 @@ Input:
   directory = Folder with AO3 .epub files (e.g. D://ao3files)  
   csv_output_path = Output .csv file path (e.g. ao3_epub_metadata.csv)  
 
+### CSV infor example  
+![csv_example](readme/csv_example.png)
+
 2. **Rename EPUB Files**  
 
 Requires CSV file from step 1.  
@@ -59,6 +62,9 @@ Input:
   txt_path = .txt file listing EPUB file paths (one per line, in desired merge order)  
   output_path = Output merged EPUB file path  
   merged_title = Title of merged EPUB file  
+
+### Merged epub example  
+![merged epub example](readme/merged_epub_example.png)  
 
 ## Generate AZW3  
 Please install `calibre`  
