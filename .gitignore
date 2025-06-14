@@ -1,0 +1,13 @@
+/dir
+/sorted*
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.epub
+*.html
+*.css
+!preface_template.html
+!chapter_template.html
+!merge_template.css
+/__pycache__
