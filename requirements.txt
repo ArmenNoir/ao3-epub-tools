@@ -1,0 +1,3 @@
+pandas
+ebooklib
+beautifulsoup4

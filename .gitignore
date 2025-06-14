@@ -4,5 +4,6 @@
 *.xlsx
 *.xls
 *.txt
+!requirements.txt
 *.epub
 /__pycache__
